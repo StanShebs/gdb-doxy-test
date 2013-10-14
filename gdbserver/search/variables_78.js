@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['x86_5f64_5fft_5fcollect_5fregmap',['x86_64_ft_collect_regmap',['../linux-amd64-ipa_8c.html#af0f1736c51a386c63bf10eb3f70aa37d',1,'linux-amd64-ipa.c']]],
+  ['x86_5fbreakpoint',['x86_breakpoint',['../linux-x86-low_8c.html#ac7ab24d0ff884157af0930d457fd3e47',1,'x86_breakpoint():&#160;linux-x86-low.c'],['../nto-x86-low_8c.html#ac7ab24d0ff884157af0930d457fd3e47',1,'x86_breakpoint():&#160;nto-x86-low.c']]],
+  ['x86_5fregsets',['x86_regsets',['../linux-x86-low_8c.html#a930569a8695bc2abce015072942c62cf',1,'linux-x86-low.c']]],
+  ['x86_5fregsets_5finfo',['x86_regsets_info',['../linux-x86-low_8c.html#a978102d19b03ace1980d68ba792c74bc',1,'linux-x86-low.c']]],
+  ['x86_5fxcr0',['x86_xcr0',['../i387-fp_8c.html#a830e6078221598a9b54e859e751df6a5',1,'x86_xcr0():&#160;i387-fp.c'],['../i387-fp_8h.html#a830e6078221598a9b54e859e751df6a5',1,'x86_xcr0():&#160;i387-fp.c']]],
+  ['x_5ftracepoint_5faction_5fops',['x_tracepoint_action_ops',['../tracepoint_8c.html#a1771080a41c927f19e9db12c60235a8b',1,'tracepoint.c']]],
+  ['xcr0',['xcr0',['../structi387__xsave.html#a41c3b4b864b89e065c5d7321b4ce6d53',1,'i387_xsave']]],
+  ['xfer',['xfer',['../structqxfer.html#ab0cbd8427a0f33324b4a0dce774a8789',1,'qxfer']]],
+  ['xmltarget',['xmltarget',['../structtarget__desc.html#a1048b1f4a30e0df486f69c9d49f88138',1,'target_desc']]],
+  ['xmltarget_5fi386_5flinux_5fno_5fxml',['xmltarget_i386_linux_no_xml',['../linux-x86-low_8c.html#abe0641d52b7f72db62a2c34f9fffc1cd',1,'linux-x86-low.c']]],
+  ['xmm_5fspace',['xmm_space',['../structi387__fxsave.html#ad659566e960c7e9b1a36b5284c6f2064',1,'i387_fxsave::xmm_space()'],['../structi387__xsave.html#aa404b46f2f538a6fd90184a42404ea9c',1,'i387_xsave::xmm_space()']]],
+  ['xstate_5fbv',['xstate_bv',['../structi387__xsave.html#a31f0fc64062a9c2d91aff6892b2249e8',1,'i387_xsave']]],
+  ['xtensa_5fbreakpoint',['xtensa_breakpoint',['../linux-xtensa-low_8c.html#a53199ac955b79bedc2c13ab4a16cccfa',1,'linux-xtensa-low.c']]],
+  ['xtensa_5fregmap_5ftable',['xtensa_regmap_table',['../xtensa-xtregs_8c.html#abf5299c4e54ac19fbbd1ea8d3951c9b5',1,'xtensa-xtregs.c']]],
+  ['xtensa_5fregsets',['xtensa_regsets',['../linux-xtensa-low_8c.html#a46b2adb48d1a48c1d1d3de08cd498bf3',1,'linux-xtensa-low.c']]],
+  ['xtensa_5fregsets_5finfo',['xtensa_regsets_info',['../linux-xtensa-low_8c.html#a32a73d16e827a1551bd03e5cf589f71a',1,'linux-xtensa-low.c']]],
+  ['xtensa_5fusrregs_5finfo',['xtensa_usrregs_info',['../linux-xtensa-low_8c.html#a4b0030be9023956e5a656f9fb8b1ae99',1,'linux-xtensa-low.c']]]
+];
