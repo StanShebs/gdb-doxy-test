@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['x_5fevent',['x_event',['../gdbtk-hooks_8c.html#a6bae1214bd1c46130af703c8d144bcb3',1,'x_event(int):&#160;gdbtk-hooks.c'],['../gdbtk_8h.html#a6bae1214bd1c46130af703c8d144bcb3',1,'x_event(int):&#160;gdbtk-hooks.c']]],
+  ['xcalloc',['xcalloc',['../common-utils_8c.html#a05a0a3435b91a07d6cc1a0b4c8788a4d',1,'common-utils.c']]],
+  ['xcoff_5fget_5fn_5fimport_5ffiles',['xcoff_get_n_import_files',['../xcoffread_8c.html#a15f05bfb8b9e1f096415238cdf06d0b6',1,'xcoff_get_n_import_files(bfd *abfd):&#160;xcoffread.c'],['../xcoffread_8h.html#a15f05bfb8b9e1f096415238cdf06d0b6',1,'xcoff_get_n_import_files(bfd *abfd):&#160;xcoffread.c']]],
+  ['xcoff_5fget_5ftoc_5foffset',['xcoff_get_toc_offset',['../xcoffread_8c.html#a082d545285ed97b40d081fe455c4e6a7',1,'xcoff_get_toc_offset(struct objfile *objfile):&#160;xcoffread.c'],['../xcoffread_8h.html#a5c16f1662902493816b76dba6807b14b',1,'xcoff_get_toc_offset(struct objfile *):&#160;xcoffread.c']]],
+  ['xfree',['xfree',['../common-utils_8c.html#a976e14808b9247ec952c262553f09f8f',1,'xfree(void *ptr):&#160;common-utils.c'],['../common-utils_8h.html#afca9b96f6a61eebbcdd7e6b3fc31ed97',1,'xfree(void *):&#160;common-utils.c']]],
+  ['xmalloc',['xmalloc',['../common-utils_8c.html#a634d6cd850bb831afebc499579303b3b',1,'common-utils.c']]],
+  ['xml_5fbuiltin_5fxfer_5fpartial',['xml_builtin_xfer_partial',['../xml-support_8c.html#aa2df1c8748dde6319b7abf71ea3e9e5f',1,'xml_builtin_xfer_partial(const char *filename, gdb_byte *readbuf, const gdb_byte *writebuf, ULONGEST offset, LONGEST len):&#160;xml-support.c'],['../xml-support_8h.html#aa2df1c8748dde6319b7abf71ea3e9e5f',1,'xml_builtin_xfer_partial(const char *filename, gdb_byte *readbuf, const gdb_byte *writebuf, ULONGEST offset, LONGEST len):&#160;xml-support.c']]],
+  ['xml_5fescape_5ftext',['xml_escape_text',['../xml-utils_8c.html#ac9a5ba811253f2a787451e101ab171b2',1,'xml_escape_text(const char *text):&#160;xml-utils.c'],['../xml-utils_8h.html#ac9a5ba811253f2a787451e101ab171b2',1,'xml_escape_text(const char *text):&#160;xml-utils.c']]],
+  ['xml_5ffetch_5fcontent_5ffrom_5ffile',['xml_fetch_content_from_file',['../xml-support_8c.html#a96affbe029d38996f8f9ee8625bb4996',1,'xml_fetch_content_from_file(const char *filename, void *baton):&#160;xml-support.c'],['../xml-support_8h.html#a96affbe029d38996f8f9ee8625bb4996',1,'xml_fetch_content_from_file(const char *filename, void *baton):&#160;xml-support.c']]],
+  ['xml_5ffind_5fattribute',['xml_find_attribute',['../xml-support_8h.html#a74f5337b744544eaea0c0c503794bccb',1,'xml-support.h']]],
+  ['xml_5fprocess_5fxincludes',['xml_process_xincludes',['../xml-support_8h.html#a76e4e71df80712f2ecb7404a0e3abc50',1,'xml-support.h']]],
+  ['xrealloc',['xrealloc',['../common-utils_8c.html#af404b7244f442ce8c3069f31af566eae',1,'common-utils.c']]],
+  ['xsnprintf',['xsnprintf',['../common-utils_8c.html#ad9940337ec98983dae9951c947879fc8',1,'xsnprintf(char *str, size_t size, const char *format,...):&#160;common-utils.c'],['../common-utils_8h.html#ad86b6ef823df35b57b1539f743bf0ae2',1,'xsnprintf(char *str, size_t size, const char *format,...) ATTRIBUTE_PRINTF(3:&#160;common-utils.h']]],
+  ['xstrprintf',['xstrprintf',['../common-utils_8c.html#ab9bf7e1b4e68bdd0078e9e1e55c62cec',1,'xstrprintf(const char *format,...):&#160;common-utils.c'],['../common-utils_8h.html#a15186552216ff0f197cf4049f9274a45',1,'xstrprintf(const char *format,...) ATTRIBUTE_PRINTF(1:&#160;common-utils.h']]],
+  ['xstrvprintf',['xstrvprintf',['../common-utils_8c.html#a7d394d06f7eb72a8d827904e0a773576',1,'xstrvprintf(const char *format, va_list ap):&#160;common-utils.c'],['../common-utils_8h.html#a3adc5ba97ede38a3c35cef76cb4f9f10',1,'xstrvprintf(const char *format, va_list ap) ATTRIBUTE_PRINTF(1:&#160;common-utils.h']]],
+  ['xtensa_5flinux_5ffetch_5finferior_5fregisters',['xtensa_linux_fetch_inferior_registers',['../xtensa-linux-nat_8c.html#ab54a9af306ebb1b99dd0c5bf7121d8ef',1,'xtensa-linux-nat.c']]],
+  ['xtensa_5flinux_5fstore_5finferior_5fregisters',['xtensa_linux_store_inferior_registers',['../xtensa-linux-nat_8c.html#aa3f5ce528bb51e110603ec2da6b8db19',1,'xtensa-linux-nat.c']]],
+  ['xzalloc',['xzalloc',['../common-utils_8c.html#ad7ead2fc5daad78a7f124e173863b16e',1,'xzalloc(size_t size):&#160;common-utils.c'],['../common-utils_8h.html#a1cb5dc5d14674658e64d4a01523910f8',1,'xzalloc(size_t):&#160;common-utils.c']]]
+];
